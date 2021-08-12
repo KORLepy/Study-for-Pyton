@@ -1,8 +1,5 @@
  #-*- coding: utf-8 -*- 
 
-clientId = "869131069616693258"
-sec = 'BchRtORdte3rwbxWKfSBQBvgAxksagFi'
-botToken = "ODY5MTMxMDY5NjE2NjkzMjU4.YP5vYg.peN5_cHx_9WdjudJRGMO7ag6Abw"
 
 botName = "Lepy"
 botDescription = "Python 연습용 봇입니다."
