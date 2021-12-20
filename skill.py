@@ -7,6 +7,7 @@ from discord.ext import commands
 import discord.message
 import asyncio
 import re
+import os
 
 app = commands.Bot(command_prefix='!',  help_command=None)
 
